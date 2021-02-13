@@ -15,8 +15,7 @@ I am  frontend developer with experience in React and with a great passion for l
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jhonangulo)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=jhonangulo&show_icons=true)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-manuel-angulo-moncada-b0877a1b5/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white)](https://jhon-angulo.vercel.app//)
