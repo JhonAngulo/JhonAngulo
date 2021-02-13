@@ -32,11 +32,11 @@
 </div>
 
 </br>
+</br>
 
 <h3 align="center">📌 Contact Me</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-manuel-angulo-moncada-b0877a1b5/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white)](https://jhon-angulo.vercel.app//)
-[![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/JhonAngulo_Col) 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JhonAngulo) 
-
+<p><a href="https://www.linkedin.com/in/jhon-manuel-angulo-moncada-b0877a1b5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://jhon-angulo.vercel.app//"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&amp;logo=react&amp;logoColor=white" alt="Portfolio"></a>
+<a href="https://twitter.com/JhonAngulo_Col"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a> 
+<a href="https://github.com/JhonAngulo"><img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a> </p>
