@@ -2,21 +2,22 @@
 
 ## Hi, I'm Jhon Angulo, a Full Stack Developer and Electronic Technician from Colombia.
 
-## 🧐 About
+## 🧐 About Me
 
-I am  frontend developer with experience in React and with a great passion for learning every day. Also I have some experience programming backend. I like challenges, animations and creating amazing dynamic UIs. Determined and goal-oriented, very good at working and collaborating with people
+I am a full stack developer with experience in React and Node, I like challenges a lot, because they increase my desire to learn. Programming lover that is why I am self-taught and I complement my education in online platforms.
 
-- 🌱 I’m currently learning Angular and Vue.
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in petroleum engineering;
+I really like helping others as long as it is within my reach and I have time available, so if you need help contact me.
 
 ## 📌 Languages and Tools
+
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code> 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=jhonangulo&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html" alt="jhonangulo" />
 
