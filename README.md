@@ -26,11 +26,14 @@
 
 <h3 align="center">📌 GitHub Stats</h3>
 
+</br>
+
 <div align="center">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhonangulo&show_icons=true" alt="jhonangulo" />
  <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html" alt="jhonangulo" />
 </div>
 
+</br>
 </br>
 
 <h3 align="center">📌 Contact Me</h3>
