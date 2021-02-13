@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonangulo" alt="jhonangulo" /> </p>
 
-## Hi, I'm Jhon Angulo, a Full Stack Developer and Electronic Technician from Colombia .
+## Hi, I'm Jhon Angulo, a Full Stack Developer and Electronic Technician from Colombia.
 
 ## 🧐 About
 
