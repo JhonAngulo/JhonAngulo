@@ -40,7 +40,7 @@
 
 </br>
 
-<div align="center" width="800">
+<div align="center" width="600">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhonangulo&show_icons=true" alt="jhonangulo" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html" alt="jhonangulo" />
 </div>
