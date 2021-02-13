@@ -31,7 +31,11 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html" alt="jhonangulo" />
 </div>
 
+<div>
+<img align="left" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="jhonangulo" />
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-manuel-angulo-moncada-b0877a1b5/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=react&logoColor=white)](https://jhon-angulo.vercel.app//)
 [![Twitter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/JhonAngulo_Col) 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JhonAngulo) 
+</div>
+
