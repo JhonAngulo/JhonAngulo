@@ -20,9 +20,16 @@
 
 </br>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code> 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-ar21.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
+<code><img width="100" height="50" src="https://worldvectorlogo.com/es/logo/node-js-logo"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
+<code><img width="100" height="50" src="https://worldvectorlogo.com/es/logo/materialize-3"></code>
+<code><img width="100" height="50" src="https://worldvectorlogo.com/es/logo/material-ui-1"></code>
 
 </br>
 
