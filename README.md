@@ -25,9 +25,10 @@
 </br>
 
 ## 📌 Languages and Tools
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jhonangulo&show_icons=true)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html)
+<div style="display: flex;" align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=jhonangulo&show_icons=true" alt="jhonangulo" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html" alt="jhonangulo" />
+</div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonangulo&layout=compact&hide=html" alt="jhonangulo" />
 
