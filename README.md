@@ -23,13 +23,16 @@
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
-<code><img width="100" height="50" src="https://worldvectorlogo.com/es/logo/node-js-logo"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
-<code><img width="100" height="50" src="https://worldvectorlogo.com/es/logo/materialize-3"></code>
-<code><img width="100" height="50" src="https://worldvectorlogo.com/es/logo/material-ui-1"></code>
+<code><img width="100" height="50" src="https://materializecss.com/res/materialize.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 
 </br>
 
@@ -55,6 +58,6 @@
 <p align="center">
 </br>
 <a href="https://www.linkedin.com/in/jhon-manuel-angulo-moncada-b0877a1b5/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin"></a>
-<a href="https://jhon-angulo.vercel.app//"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&amp;logo=react&amp;logoColor=white" alt="Portfolio"></a>
+<a href="https://jhon-angulo.vercel.app//"><img src="https://img.shields.io/badge/-Personal%20Page-2196f3?style=flat&amp;logo=react&amp;logoColor=white" alt="Portfolio"></a>
 <a href="https://twitter.com/JhonAngulo_Col"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a> 
-<a href="https://github.com/JhonAngulo"><img src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a> </p>
+<a href="https://github.com/JhonAngulo"><img src="https://img.shields.io/badge/-Github-6a737d?style=flat&amp;logo=Github&amp;logoColor=white" alt="Github"></a> </p>
