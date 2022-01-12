@@ -33,7 +33,7 @@
 <code><img width="100" height="50" src="https://materializecss.com/res/materialize.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
-<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/git.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
 
 </br>
