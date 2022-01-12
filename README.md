@@ -27,6 +27,9 @@
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
+
+</br>
+
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
@@ -34,6 +37,9 @@
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/git.svg"></code>
+
+</br>
+
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/gitlab-1.svg"></code>
 
