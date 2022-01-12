@@ -21,10 +21,9 @@
 </br>
 
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
-<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
-<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
