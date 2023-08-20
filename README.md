@@ -30,7 +30,7 @@
 
 </br>
 
-<code><img width="100" height="50" style="background:red;" background="white" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+<code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"></code>
 <code><img width="100" height="50" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"></code>
 <code><img width="100" height="50" src="https://materializecss.com/res/materialize.svg"></code>
